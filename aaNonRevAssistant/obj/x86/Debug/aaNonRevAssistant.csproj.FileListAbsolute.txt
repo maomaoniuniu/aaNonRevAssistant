@@ -1,0 +1,10 @@
+E:\documents\Documents\Visual Studio 2010\Projects\aaNonRevAssistant\aaNonRevAssistant\obj\x86\Debug\aaNonRevAssistant.Form1.resources
+E:\documents\Documents\Visual Studio 2010\Projects\aaNonRevAssistant\aaNonRevAssistant\obj\x86\Debug\aaNonRevAssistant.Properties.Resources.resources
+E:\documents\Documents\Visual Studio 2010\Projects\aaNonRevAssistant\aaNonRevAssistant\obj\x86\Debug\aaNonRevAssistant.csproj.GenerateResource.Cache
+E:\documents\Documents\Visual Studio 2010\Projects\aaNonRevAssistant\aaNonRevAssistant\bin\Debug\aaNonRevAssistant.exe.config
+E:\documents\Documents\Visual Studio 2010\Projects\aaNonRevAssistant\aaNonRevAssistant\bin\Debug\aaNonRevAssistant.exe
+E:\documents\Documents\Visual Studio 2010\Projects\aaNonRevAssistant\aaNonRevAssistant\bin\Debug\aaNonRevAssistant.pdb
+E:\documents\Documents\Visual Studio 2010\Projects\aaNonRevAssistant\aaNonRevAssistant\bin\Debug\zoyobar.shared.panzer.IEBrowser.dll
+E:\documents\Documents\Visual Studio 2010\Projects\aaNonRevAssistant\aaNonRevAssistant\bin\Debug\zoyobar.shared.panzer.IEBrowser.xml
+E:\documents\Documents\Visual Studio 2010\Projects\aaNonRevAssistant\aaNonRevAssistant\obj\x86\Debug\aaNonRevAssistant.exe
+E:\documents\Documents\Visual Studio 2010\Projects\aaNonRevAssistant\aaNonRevAssistant\obj\x86\Debug\aaNonRevAssistant.pdb
